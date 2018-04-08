@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yan/Sites/mobile/Boilerplate/LaRissa/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/yan/Sites/mobile/Boilerplate/LaRissa/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yan/Sites/mobile/Boilerplate/LaRisso/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/yan/Sites/mobile/Boilerplate/LaRisso/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

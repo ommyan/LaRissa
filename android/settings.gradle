@@ -1,0 +1,3 @@
+rootProject.name = 'LaRissa'
+
+include ':app'

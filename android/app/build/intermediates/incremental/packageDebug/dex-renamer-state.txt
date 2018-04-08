@@ -1,0 +1,4 @@
+#Sun Apr 08 13:29:05 WIB 2018
+base.0=/Users/yan/Sites/mobile/Boilerplate/LaRissa/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/yan/Sites/mobile/Boilerplate/LaRissa/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
